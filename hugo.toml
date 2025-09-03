@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Gizem Candan'
+theme = "hyde"
+
+[Menus]
+
+[[Menus.main]]
+    identifier = "works"
+    name = "works"
+    url = "/works/"
+    weight = 1
+[[Menus.main]]
+    identifier = "curatorial"
+    name = "curatorial"
+    url = "/curatorial/"
+    weight = 2
+[[Menus.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about/"
+    weight = 3        
