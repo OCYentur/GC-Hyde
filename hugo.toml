@@ -1,22 +1,61 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://gizemcandan.art/'
 languageCode = 'en-us'
 title = 'Gizem Candan'
 theme = "hyde"
 
+[markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+    hideToc = true
+    dark_mode = true 
+    brand = "Gizem Candan"
+    description = " " 
+
 [Menus]
+
+[[Menus.main]]
+    identifier = "home"
+    name = "home"
+    url = "/"
+    weight = 1
 
 [[Menus.main]]
     identifier = "works"
     name = "works"
     url = "/works/"
-    weight = 1
+    weight = 2
 [[Menus.main]]
     identifier = "curatorial"
     name = "curatorial"
-    url = "/curatorial/"
-    weight = 2
+    weight = 3
+    [Menus.main.params]
+        nolink = true
+[[Menus.main]]
+    identifier = "anxious yet familiar world"
+    name = "anxious yet familiar world"
+    url = "/curatorial/anxious-yet-familiar-world/"
+    parent = "curatorial"
+    weight = 5
+[[Menus.main]]
+    identifier = "living palette"
+    name = "living palette"
+    url = "/curatorial/living-palette/"
+    parent = "curatorial"
+    weight = 6
+[[Menus.main]]
+    identifier = "host & compost"
+    name = "host & compost"
+    url = "/curatorial/host-and-compost/"
+    parent = "curatorial"
+    weight = 7
 [[Menus.main]]
     identifier = "about"
     name = "about"
     url = "/about/"
-    weight = 3        
+    weight = 8        
+
+
+email_url = "mailto://user@domain"
+facebook_url = "https://facebook.com"
+instagram_url = "https://instagram.com"
