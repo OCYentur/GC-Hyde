@@ -21,41 +21,76 @@ theme = "hyde"
     weight = 1
 
 [[Menus.main]]
-    identifier = "works"
-    name = "works"
+    identifier = "selected-works"
+    name = "selected works"
     url = "/works/"
     weight = 2
-[[Menus.main]]
-    identifier = "curatorial"
-    name = "curatorial"
-    weight = 3
     [Menus.main.params]
         nolink = true
+        submenu = "works-menu"
 [[Menus.main]]
-    identifier = "anxious yet familiar world"
+    identifier = "invasive-palette"
+    name = "invasive palette"
+    url = "/works/invasive-palette"
+    parent = "selected-works"
+    weight = 3
+[[Menus.main]]
+    identifier = "curatorial-projects"
+    name = "curatorial projects"
+    weight = 4
+    [Menus.main.params]
+        nolink = true
+        submenu = "curatorial-menu"
+[[Menus.main]]
+    identifier = "anxious-yet-familiar-world"
     name = "anxious yet familiar world"
     url = "/curatorial/anxious-yet-familiar-world/"
-    parent = "curatorial"
-    weight = 5
-[[Menus.main]]
-    identifier = "living palette"
-    name = "living palette"
-    url = "/curatorial/living-palette/"
-    parent = "curatorial"
+    parent = "curatorial-projects"
     weight = 6
 [[Menus.main]]
-    identifier = "host & compost"
+    identifier = "living-palette"
+    name = "living palette"
+    url = "/curatorial/living-palette/"
+    parent = "curatorial-projects"
+    weight = 7
+[[Menus.main]]
+    identifier = "host-compost"
     name = "host & compost"
     url = "/curatorial/host-and-compost/"
-    parent = "curatorial"
-    weight = 7
+    parent = "curatorial-projects"
+    weight = 8
 [[Menus.main]]
     identifier = "about"
     name = "about"
     url = "/about/"
-    weight = 8        
+    weight = 9       
+    [Menus.main.params]
+        lastitem = true
 
-
+[[Menus.works]]
+    identifier = "invasive-palette"
+    name = "invasive palette"
+    url = "/works/invasive-palette"
+    weight = 1
+    [Menus.works.params]
+        lastitem = true
+[[Menus.curatorial]]
+    identifier = "anxious-yet-familiar-world"
+    name = "anxious yet familiar world"
+    url = "/curatorial/anxious-yet-familiar-world/"
+    weight = 1
+[[Menus.curatorial]]
+    identifier = "living-palette"
+    name = "living palette"
+    url = "/curatorial/living-palette/"
+    weight = 2
+[[Menus.curatorial]]
+    identifier = "host-compost"
+    name = "host & compost"
+    url = "/curatorial/host-and-compost/"
+    weight = 3
+    [Menus.curatorial.params]
+        lastitem = true    
 email_url = "mailto://user@domain"
 facebook_url = "https://facebook.com"
 instagram_url = "https://instagram.com"
