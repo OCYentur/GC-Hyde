@@ -6,10 +6,11 @@ hideToc = true
 summary = ' '
 slug = 'about'
 +++
-<table style="margin-bottom:0;">
-<tr>
-<td rowspan="2" style="width:34%;border:none;vertical-align:top"><img class=unselectable src="\images\GizemCandanStudio_sarahbodri2024-3426.jpg"></td>
-<td style="width:86%;border:none;padding-left:1em;vertical-align:top;"><b>Gizem Candan</b> (b. Istanbul, Turkey) is a visual artist and curator based in Montréal and
+<!-- <table style="margin-bottom:0;">
+<tr> -->
+<!-- <td rowspan="2" style="width:34%;border:none;vertical-align:top"><img class=unselectable src="\images\GizemCandanStudio_sarahbodri2024-3426.jpg"></td> -->
+<!-- <td style="width:86%;border:none;padding-left:1em;vertical-align:top;"> -->
+<b>Gizem Candan</b> (b. Istanbul, Turkey) is a visual artist and curator based in Montréal and
 Toronto, with a focus on painting, interdisciplinary practices and climate change. She
 recently graduated from OCAD University in Toronto with a MFA in Criticism and
 Curatorial Practice, where her thesis explored tangible and metaphysical aspects of
@@ -28,31 +29,34 @@ Almonte; TD Gallery at Toronto Reference Library, Toronto; Elgiz Museum; Pera
 Museum; Akbank Sanat, Istanbul; Arkas Art Center, Izmir; and Cermodern, Ankara.
 Candan has also curated two-person and group exhibitions at Ignite Gallery and Xpace
 Cultural Centre, Toronto.
-</td>
+<!-- </td>
 </tr>
 <tr>
 <td style="border:none;padding-left:1em;vertical-align:top;"></td>
 </tr>
 <tr>
-<td colspan="2" style="border:none;"><i class="small-text">Photos by Sarah Bodri</i>
+<td colspan="2" style="border:none;"> -->
+<i class="small-text">Photos by Sarah Bodri</i>
 <br><br><br><br>
 Thank you to the Ontario Arts Council and Canada Council for the Arts for their generous support!
 <br><br>
-</td>
+<!-- </td>
 </tr>
-</table>
+</table> -->
 <table style="margin-top:0; margin-bottom:0">
 <tr>
-    <td style="width:32%;border:none;"><img class="uncompressed" src="\images\2015-OAC-logo-RGB-JPG.jpg"><br><br></td>
-    <td style="width:42%;border:none; padding-left:2em;"><img class="uncompressed" src="\images\CCA_RGB_colour_e.png"><br><br></td>
+    <td style="width:40%;border:none;"><img class="uncompressed small" src="\images\2015-OAC-logo-RGB-JPG.jpg"><br><br></td>
+    <td style="width:60%;border:none; padding-left:2em;"><img class="uncompressed small" src="\images\CCA_RGB_colour_e.png"><br><br></td>
     <td style="border:none"></td>
 </tr>
 </table>
-<table style="margin-top:0;">
+<!-- <table style="margin-top:0;">
 <tr>
-    <td colspan="3" style="border:none;"><img class="uncompressed" src="\images\GizemCandanStudio_sarahbodri2024-3482.jpg"></td>
-</tr>
+    <td colspan="3" style="border:none;"></td> -->
+    <img class="uncompressed" src="\images\GizemCandanStudio_sarahbodri2024-3482.jpg">
+<!-- </tr>
 <tr>
-    <td colspan="3" style="border:none;"><img class="uncompressed" src="\images\GizemCandanStudio_sarahbodri2024-3623.jpg"></td>
-</tr>
-</table>
+    <td colspan="3" style="border:none;"></td> -->
+    <img class="uncompressed" src="\images\GizemCandanStudio_sarahbodri2024-3623.jpg">
+<!-- </tr>
+</table> -->
