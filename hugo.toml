@@ -35,9 +35,15 @@ theme = "hyde"
     parent = "selected-works"
     weight = 3
 [[Menus.main]]
+    identifier = "worm-as-earth-earth-as-ochre"
+    name = "worm as earth, earth as ochre"
+    url = "/works/worm-as-earth-earth-as-ochre"
+    parent = "selected-works"
+    weight = 4
+[[Menus.main]]
     identifier = "curatorial-projects"
     name = "curatorial projects"
-    weight = 4
+    weight = 5
     [Menus.main.params]
         nolink = true
         submenu = "curatorial-menu"
@@ -72,6 +78,11 @@ theme = "hyde"
     name = "invasive palette"
     url = "/works/invasive-palette"
     weight = 1
+[[Menus.works]]
+    identifier = "worm-as-earth-earth-as-ochre"
+    name = "worm as earth, earth as ochre"
+    url = "/works/worm-as-earth-earth-as-ochre"
+    weight = 2    
     [Menus.works.params]
         lastitem = true
 [[Menus.curatorial]]
