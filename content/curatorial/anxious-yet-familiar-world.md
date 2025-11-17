@@ -93,5 +93,8 @@ the subtle aspects of their daily lives.
 <img class=unselectable src="\images\anxiousyetfamiliarworld\27.Anxious yet familiar world_2024_Ignite Gallery_Photo by Ellie Corfield.webp"><br><br>
 <img class=unselectable src="\images\anxiousyetfamiliarworld\28.Anxious yet familiar world_2024_Ignite Gallery_Photo by Ellie Corfield.webp"><br><br>
 <img class=unselectable src="\images\anxiousyetfamiliarworld\29.Anxious yet familiar world_2024_Ignite Gallery_Photo by Gizem Candan.webp"><br><br>
-<img class=unselectable src="\images\anxiousyetfamiliarworld\30.Anxious yet familiar world_2024_Ignite Gallery_Photo by Gizem Candan.webp"><br><br>
-Photography by Gizem Candan and Ellie Corfield
+<img class=unselectable src="\images\anxiousyetfamiliarworld\30.Anxious yet familiar world_2024_Ignite Gallery_Photo by Gizem Candan.webp">
+<table style="width:60%; margin:auto;">
+<tr>
+<tr><td style="text-align:center;"><i class="small-text;" style="font-size:.85em;">Photography by Gizem Candan and Ellie Corfield</i></td></tr>
+</tr></table>

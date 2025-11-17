@@ -56,5 +56,8 @@ immigrants and women of colour. As the word gas evokes the air we breathe and ba
 <img class=unselectable src="\images\livingpalette\26-2024-09-24 xpace_Polina Teif_web-88.webp"><br><br>
 <img class=unselectable src="\images\livingpalette\27-2024-09-24 xpace_Polina Teif_web-147.webp"><br><br>
 <img class=unselectable src="\images\livingpalette\28-2024-09-24 xpace_Polina Teif_web-73.webp"><br><br>
-<img class=unselectable src="\images\livingpalette\29-2024-09-24 xpace_Polina Teif_web-43.webp"><br><br>
-Photography by Polina Teif
+<img class=unselectable src="\images\livingpalette\29-2024-09-24 xpace_Polina Teif_web-43.webp">
+<table style="width:60%; margin:auto;">
+<tr>
+<tr><td style="text-align:center;"><i class="small-text;" style="font-size:.85em;">Photography by Polina Teif</i></td></tr>
+</tr></table>
