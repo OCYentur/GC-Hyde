@@ -8,6 +8,8 @@ slug =  'living-palette'
 +++
 September 13 - November 9, 2024
 <br>
+Xpace, Toronto, ON
+<br>
 <br>
 Artists:
 <br>
@@ -21,13 +23,13 @@ Julie Pasila
 Curated by GAS Collective
 <br>
 <br>
+<img class=unselectable src="\images\livingpalette\1-2024-09-24 xpace_Polina Teif_web-44.webp"><br>
 Living Palette is a group exhibition that explores diverse ways of alternative world-making through reorienting to the roots of life. The exhibition engages with the five natural elements — fire, air, water, earth, and aether — not only to explore the aesthetics of these unique elements, but also grapple with the tension and balance between them. By weaving these fundamental forces, the exhibition seeks to highlight the (co)existence and in(ter)dependence of the more-than-human world, raising the question: How can we, as living entities, synergize with the palette of elements and one another to envision a more nourishing and sustainable future?
 <br><br>
 To read the full essay visit <a href="https://www.xpace.info/wp-content/uploads/2024/09/Living-Palette_GAS-Collective.pdf" target="_blank">Xpace</a>.
 <br><br>
 GAS Collective, taking the initials from members names: Gizem Candan, Ann Tong Li and Steffi Sin Tung Ng, we, three graduates from OCAD’s MFA Criticism and Curatorial Practice program, formed the GAS collective. We are brought together not only by the two years we spent closely with each other, but also by our shared identity being first-generation Asian 
 immigrants and women of colour. As the word gas evokes the air we breathe and bathe, our identity, invisible but omnipresent, intangible but vital, is simultaneously reminded of in the art scene and society just like air to the human species.<br><br>
-<img class=unselectable src="\images\livingpalette\1-2024-09-24 xpace_Polina Teif_web-44.webp"><br><br>
 <img class=unselectable src="\images\livingpalette\2-2024-09-24 xpace_Polina Teif_web-138.webp"><br><br>
 <img class=unselectable src="\images\livingpalette\3-2024-09-24 xpace_Polina Teif_web-139.webp"><br><br>
 <img class=unselectable src="\images\livingpalette\4-2024-09-24 xpace_Polina Teif_web-143.webp"><br><br>

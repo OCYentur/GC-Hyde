@@ -10,11 +10,11 @@ Gizem Candan
 <br>
 with a sound composition from Camille 菊 Belair
 <br><Br>
-Curated by Lisa Cristinzo
-<br>
 August 20-31, 2025
 <br>
 Toronto, ON
+<br><br>
+Curated by Lisa Cristinzo
 <br><br>
 <img class=unselectable src="\images\wormasearthearthasochre\1.Worm as earth, earth as ochre_2025_FFS8_Photo by Steffi NG.webp"><br><br>
 <img class=unselectable src="\images\wormasearthearthasochre\2.Worm as earth, earth as ochre_2025_FFS8_Photo by Steffi NG.webp"><br><br>

@@ -8,6 +8,8 @@ slug = 'anxious-yet-familiar-world'
 +++
 December 18, 2024 – January 21, 2025
 <br>
+Ignite Gallery, Toronto, ON
+<br>
 <br>
 Artists:
 <br>
@@ -27,6 +29,7 @@ Chaoran Zhou
 Curated by Gizem Candan
 <br>
 <br>
+<img class=unselectable src="\images\anxiousyetfamiliarworld\3.Anxious yet familiar world_2024_Ignite Gallery_Photo by Ellie Corfield.webp"><br>
 There are many layers and traces on our surroundings both subtle and visible,
 including human and non-human history hidden in corners, shadows, holes, waste,
 objects, landscape and more. Whether we are conscious of them or not, these layers
@@ -63,10 +66,9 @@ uneasiness found in everyday moments. The exhibition still aims to maintain the 
 of hope by encouraging visitors to reconsider how they engage with and find beauty in
 the subtle aspects of their daily lives.
 <br><br>
-<span style="float:right">Text by Gizem Candan</span>
+<span style="float:left">Text by Gizem Candan</span>
 <br><br>
 <img class=unselectable src="\images\anxiousyetfamiliarworld\2.Anxious yet familiar world_2024_Ignite Gallery_Photo by Gizem Candan.webp"><br><br>
-<img class=unselectable src="\images\anxiousyetfamiliarworld\3.Anxious yet familiar world_2024_Ignite Gallery_Photo by Ellie Corfield.webp"><br><br>
 <img class=unselectable src="\images\anxiousyetfamiliarworld\4.Anxious yet familiar world_2024_Ignite Gallery_Photo by Gizem Candan.webp"><br><br>
 <img class=unselectable src="\images\anxiousyetfamiliarworld\5.Anxious yet familiar world_2024_Ignite Gallery_Photo by Gizem Candan.webp"><br><br>
 <img class=unselectable src="\images\anxiousyetfamiliarworld\6.Anxious yet familiar world_2024_Ignite Gallery_Photo by Gizem Candan.webp"><br><br>
