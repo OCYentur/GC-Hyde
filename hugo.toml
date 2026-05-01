@@ -2,6 +2,7 @@ baseURL = 'https://gizemcandan.art/'
 languageCode = 'en-us'
 title = 'Gizem Candan'
 theme = "hyde"
+publishDir = "public_html"
 
 [markup.goldmark.renderer]
     unsafe= true
