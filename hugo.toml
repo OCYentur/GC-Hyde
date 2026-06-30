@@ -30,27 +30,33 @@ publishDir = "public_html"
         nolink = true
         submenu = "works-menu"
 [[Menus.main]]
+    identifier = "women-and-flowers"
+    name = "women & flowers"
+    url = "/works/women-and-flowers"
+    parent = "selected-works"
+    weight = 3
+[[Menus.main]]
     identifier = "invasive-palette"
     name = "invasive palette"
     url = "/works/invasive-palette"
     parent = "selected-works"
-    weight = 3
+    weight = 4
 [[Menus.main]]
     identifier = "worm-as-earth-earth-as-ochre"
     name = "worm as earth, earth as ochre"
     url = "/works/worm-as-earth-earth-as-ochre"
     parent = "selected-works"
-    weight = 4
+    weight = 5
 [[Menus.main]]
     identifier = "it-was-too-heavy-i-couldnt-move"
     name = "it was too heavy, I couldn't move."
     url = "/works/it-was-too-heavy-i-couldnt-move"
     parent = "selected-works"
-    weight = 5      
+    weight = 6      
 [[Menus.main]]
     identifier = "curatorial-projects"
     name = "curatorial projects"
-    weight = 6
+    weight = 7
     [Menus.main.params]
         nolink = true
         submenu = "curatorial-menu"
@@ -59,30 +65,30 @@ publishDir = "public_html"
     name = "metabolic loop"
     url = "/curatorial/metabolic-loop/"
     parent = "curatorial-projects"
-    weight = 7   
+    weight = 8   
 [[Menus.main]]
     identifier = "anxious-yet-familiar-world"
     name = "anxious yet familiar world"
     url = "/curatorial/anxious-yet-familiar-world/"
     parent = "curatorial-projects"
-    weight = 8
+    weight = 9
 [[Menus.main]]
     identifier = "living-palette"
     name = "living palette"
     url = "/curatorial/living-palette/"
     parent = "curatorial-projects"
-    weight = 9
+    weight = 10
 [[Menus.main]]
     identifier = "host-compost"
     name = "host & compost"
     url = "/curatorial/host-and-compost/"
     parent = "curatorial-projects"
-    weight = 10
+    weight = 11
 [[Menus.main]]
     identifier = "about"
     name = "about"
     url = "/about/"
-    weight = 11       
+    weight = 12       
     [Menus.main.params]
         lastitem = true
 
@@ -92,15 +98,20 @@ publishDir = "public_html"
     url = "/works/invasive-palette"
     weight = 1
 [[Menus.works]]
+    identifier = "women-and-flowers"
+    name = "Women & Flowers"
+    url = "/works/women-and-flowers"
+    weight = 2   
+[[Menus.works]]
     identifier = "worm-as-earth-earth-as-ochre"
     name = "worm as earth, earth as ochre"
     url = "/works/worm-as-earth-earth-as-ochre"
-    weight = 2    
+    weight = 3    
 [[Menus.works]]
     identifier = "it-was-too-heavy-i-couldnt-move"
     name = "It was too heavy, I couldn't move."
     url = "/works/it-was-too-heavy-i-couldnt-move"
-    weight = 3        
+    weight = 4        
     [Menus.works.params]
         lastitem = true
 [[Menus.curatorial]]
