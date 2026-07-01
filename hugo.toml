@@ -18,7 +18,7 @@ publishDir = "public_html"
 [[Menus.main]]
     identifier = "paintings"
     name = "paintings"
-    url = "/paintings/"
+    url = "/"
     weight = 1
 
 [[Menus.main]]
